@@ -6,6 +6,7 @@ A front-end project built using HTML & CSS.
 ##features
 - clean an organized layout
 - product cards and sections
+
 - semantic HTML
 - pure css styling
 
